@@ -1,0 +1,7 @@
+Tipo de Función	                Ejemplo de Código	                        Uso
+Sin retorno y sin parámetros	function saludo() { ... }	                Ejecución de un bloque de código simple.
+Sin retorno y con parámetros	function saludar(nombre) { ... }	        Ejecución de un bloque de código con argumentos.
+Con retorno y sin parámetros	function generarNumeroAleatorio() { ... }	Cálculo y retorno de un valor específico.
+Con retorno y con parámetros	function sumar(a, b) { ... }	            Cálculo y retorno basado en argumentos.
+Función anónima	                let saludo = function() { ... };	        Definición de una función sin nombre localmente.
+Función flecha	                let cuadrado = x => x * x;	                Definición concisa de funciones cortas.

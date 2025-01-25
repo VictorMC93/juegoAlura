@@ -1,0 +1,2 @@
+array.push('x'); //agrega elemento al final
+array.pop(); //quita ultimo elemento
